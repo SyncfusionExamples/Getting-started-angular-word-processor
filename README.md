@@ -1,14 +1,14 @@
 # Getting Started with the Angular Word Processor (Document Editor)
 
-A quick-start project that shows how to create and configure the Syncfusion Angular Document Editor component. This project contains code to configure a few of the control’s basic features like enabling toolbar, open and save documents.
+A quick-start project that shows how to create and configure the Syncfusion&reg; Angular Document Editor component. This project contains code to configure a few of the control’s basic features like enabling toolbar, open and save documents.
 
-Refer to the following getting started documentation for the Syncfusion Angular Document Editor component:  
+Refer to the following getting started documentation for the Syncfusion&reg; Angular Document Editor component:  
 https://ej2.syncfusion.com/angular/documentation/document-editor/getting-started   
 
 Check out this online example for the Angular Document Editor component:  
 https://ej2.syncfusion.com/angular/demos/#/material3/document-editor/default  
 
-Download the Syncfusion Angular Document Editor controller using the below GitHub link, https://github.com/SyncfusionExamples/EJ2-Document-Editor-Web-Services/blob/master/ASP.NET%20Core/src/Controllers/DocumentEditorController.cs  
+Download the Syncfusion&reg; Angular Document Editor controller using the below GitHub link, https://github.com/SyncfusionExamples/EJ2-Document-Editor-Web-Services/blob/master/ASP.NET%20Core/src/Controllers/DocumentEditorController.cs  
 
 ## Project prerequisites
 
